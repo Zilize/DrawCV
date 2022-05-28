@@ -48,6 +48,8 @@
 
 ## 说明
 
+- 阿里云盘[下载链接](https://www.aliyundrive.com/s/nGSmDSe4zT1)，提取码`w31g`
+
 - 模板源文件在目录`source`下：
 
   - 左对齐版式：`DrawCV.drawio`

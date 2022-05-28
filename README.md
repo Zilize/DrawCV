@@ -7,11 +7,17 @@
 <p align="center">Awesome CV template based on <a href="https://draw.io/">Draw.io</a> <br/>基于 <a href="https://draw.io/">Draw.io</a> 绘制的简历模板</p>
 
 <div align="center">
-	<a href="https://github.com/zilize/drawcv">
+  <a href="https://github.com/zilize/drawcv">
     <img alt="Release Version" src="https://img.shields.io/github/v/release/zilize/drawcv.svg" />
   </a>
   <a href="./LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-GPL-blue.svg" />
+  </a>
+  <a href="https://www.aliyundrive.com/s/nGSmDSe4zT1">
+    <img alt="Download" src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98-orange">
+  </a>
+  <a href="https://moecode.com">
+    <img alt="MoeCode" src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%90%8C%E5%8F%AF%E7%A0%94%E7%A9%B6%E6%89%80-9cf">
   </a>
 </div>
 

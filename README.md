@@ -89,10 +89,10 @@
 
 ## 致谢与支持
 
-感谢两位设计师 [@Dott](https://dott.love)（公众号：Dott自留地）与 [@Fan]() 对本简历提供的建设性意见。
+感谢设计师 [@Dott](https://dott.love)（公众号：Dott自留地）与技术美术 [@Fan]() 对本简历提供的建设性意见。
 
 模板由 [@Zilize](https://moecode.com)（公众号：萌可研究所）出品，一位热爱图形学的二次元技术宅。
 
-请我和两位设计师喝咖啡（微信赞赏码）：
+请我和两位大佬喝咖啡（微信赞赏码）：
 
 <img src="./asset/Donate.png" style="width:60%;" />

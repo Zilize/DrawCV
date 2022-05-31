@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/zilize/drawcv">
-    <img alt="Release Version" src="https://img.shields.io/github/v/release/zilize/drawcv.svg" />
+    <img alt="Release Version" src="https://img.shields.io/badge/release-v1.0.0-blue" />
   </a>
   <a href="./LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-GPL-blue.svg" />
